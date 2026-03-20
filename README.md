@@ -10,15 +10,10 @@ Desarrollar una aplicación con interfaz gráfica que permita registrar y gestio
 ## Funcionalidades
 
 ✔ Registrar nuevos visitantes
-
 ✔ Visualizar visitantes en una tabla dinámica
-
 ✔ Eliminar visitantes seleccionados
-
 ✔ Limpiar campos del formulario
-
 ✔ Validar campos vacíos
-
 ✔ Evitar registro de cédulas duplicadas
 
 ## Arquitectura del Proyecto
@@ -37,9 +32,8 @@ VISITAS_APP/
     
 ## Tecnologías Utilizadas
 
-Python 
-
-Tkinter 
+- Python 
+- Tkinter 
 
 ## Conceptos Aplicados
 
